@@ -1,0 +1,10 @@
+# VS Code / Visual Studio
+.vs/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node / temp (safe to keep)
+node_modules/
